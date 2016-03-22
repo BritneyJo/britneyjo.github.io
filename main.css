@@ -1,5 +1,6 @@
 .about{
-  position:relative
+  position:relative;
+  margin-top: 20px
 }
 .about .about__title{
   margin-bottom:0
@@ -9,19 +10,16 @@
 }
 .contact a{
   border-bottom:0;
-  color: #12AB85;
+  color: #C0C0C0;
   font-size:1.77em;
   margin-right:20px;
   padding-bottom:0
 }
 .contact a:hover{
-  color:#C7CE03
+  color:#333
 }
 
 @media screen and (max-width:530px){
-  .about{
-    margin-top:100px
-  }
   .about__title{
     font-size:1.77em
   }
@@ -39,16 +37,16 @@ body{
   /*font-family: 'Rokkitt', serif;*/
   font-weight:400;
   line-height:1.45;
-  margin-top:300px
+  margin-top:60px
 }
 .wrapper{
   margin:0 auto;
   max-width:1200px;
-  width:80%
+  width:85%
 }
 a{
   border-bottom:1px solid;
-  color:tan;
+  color: #C0C0C0;
   padding-bottom:5px;
   text-decoration:none
 }
