@@ -9,13 +9,13 @@
 }
 .contact a{
   border-bottom:0;
-  color:silver;
+  color: #12AB85;
   font-size:1.77em;
   margin-right:20px;
   padding-bottom:0
 }
 .contact a:hover{
-  color:#333
+  color:#C7CE03
 }
 
 @media screen and (max-width:530px){
